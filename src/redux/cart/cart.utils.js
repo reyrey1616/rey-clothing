@@ -1,3 +1,5 @@
+// this functions contains the logic before dispatching the data to reducer
+
 export const addItemToCart = (cartItems, cartItemToAdd) => {
   const existingCartItem = cartItems.find(
     (cartItem) => cartItem.id === cartItemToAdd.id
