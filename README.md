@@ -6,8 +6,8 @@ E-Commerce website built with React.js, Hooks , Redux, Redux Saga, Firebase and 
 1. Clone the repo.
 2. Install the packages.
 
-  ```npm install```
+     ```npm install```
 
 3.Run the app.
 
-  ```npm start```
+     ```npm start```
